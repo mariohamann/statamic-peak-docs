@@ -1,6 +1,6 @@
 # Commands
 
-Peak comes with an optional Paid addon containing a set of CLI commands to make tedious recurring tasks a lot easier. This addon requires an active license during development.
+Peak comes with an optional Paid addon containing a set of CLI commands to make tedious recurring tasks a lot easier. This addon requires an active license during development. It is available on the [Statamic Marketplace](https://statamic.com/addons/studio1902/peak-commands)
 
 ## Make Collection
 This command creates a new collection and scaffolds out all needed files with some sane default markup containing the various Peak utilities we use.
